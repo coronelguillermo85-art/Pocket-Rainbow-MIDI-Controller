@@ -1,3 +1,7 @@
+
+<img src="https://img.shields.io/badge/Project-Sensitive_Lab-blueviolet?style=for-the-badge" alt="Sensitive Lab">
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License">
+
 # 🎛️ Pocket Rainbow Midi Controller (Hardware Open-Source)
 
 Este repositorio contiene la documentación técnica, el diseño de hardware y el firmware para el **Pocket Rainbow Midi Controller**, un controlador MIDI dinámico, ultra compacto y personalizado. El dispositivo está construido sobre un microcontrolador **ESP32-S3 (Módulo N16R8)** y cuenta con una matriz física de 16 pulsadores de alta respuesta, diseñada específicamente para la ejecución de instrumentos virtuales y sintetizadores en tiempo real.
