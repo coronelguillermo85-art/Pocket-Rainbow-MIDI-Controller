@@ -1,6 +1,5 @@
 
-<img src="https://img.shields.io/badge/Project-Sensitive_Lab-blueviolet?style=for-the-badge" alt="Sensitive Lab">
-<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License">
+<img src="https://img.shields.io/badge/Project-Sensitive_Lab-blueviolet?style=for-the-badge" alt="Sensitive Lab"> <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License">
 
 # 🎛️ Pocket Rainbow Midi Controller (Hardware Open-Source)
 
